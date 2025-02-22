@@ -5,6 +5,7 @@ public class NewFile {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hey new file");
+		System.out.println("new file for pull ");
 
 	}
 
